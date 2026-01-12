@@ -9,6 +9,7 @@
 #1
 #2
 #3
+#!/usr/bin/python3
 import sys
 
 for i in range(len(sys.argv)):
