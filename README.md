@@ -4,18 +4,6 @@ Welcome to the **Holberton School Debugging Repository**! This repository contai
 
 ---
 
-## 📂 Project Structure
-
-- **debugging/factorial.py**: Iterative implementation of factorial calculation.
-- **debugging/factorial_recursive.py**: Recursive implementation of factorial calculation.
-- **debugging/print_arguments.py**: Prints command-line arguments passed to the script.
-- **debugging/change_background.html**: A simple HTML page to change the background color dynamically.
-- **debugging/mines.py**: A basic Minesweeper game implementation.
-- **debugging/checkbook.py**: A virtual checkbook application to manage deposits and withdrawals.
-- **debugging/tic_tac_toe.py**: A classic Tic Tac Toe game for two players.
-
----
-
 ## 🚀 How to Run
 
 1. Clone the repository:
