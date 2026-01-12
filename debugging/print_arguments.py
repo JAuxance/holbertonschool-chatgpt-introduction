@@ -1,16 +1,6 @@
 #!/usr/bin/python3
-#import sys
-
-#for i in range(len(sys.argv)):
-    #print(sys.argv[i])
-
-#$ ./print_arguments.py 1 2 3
-#print_arguments.py
-#1
-#2
-#3
 import sys
 
-for i in range(len(sys.argv)):
+# Start from index 1 to skip the script name
+for i in range(1, len(sys.argv)):
     print(sys.argv[i])
-# 0 error detected
